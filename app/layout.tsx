@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "SimpleOps",
-  description: "Next.js app with Supabase authentication",
+  description: "No More Excel and WhatsApp for your small business operations",
 };
 
 export default function RootLayout({

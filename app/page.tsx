@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 items-center">
         <h1 className="text-4xl font-bold">Welcome to SimpleOps</h1>
         <p className="text-xl text-center max-w-md">
-          A Next.js 14 app with Supabase authentication
+          A Next.js 14 app for managing your small business operations with ease.
         </p>
         <div className="flex gap-4">
           <Link
